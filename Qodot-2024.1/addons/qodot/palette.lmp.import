@@ -1,0 +1,14 @@
+[remap]
+
+importer="qodot.palette"
+type="Resource"
+uid="uid://b1b1wyyoa6lpf"
+path="res://.godot/imported/palette.lmp-c36b09d0d8478c8249d3e672142c109d.tres"
+
+[deps]
+
+source_file="res://Qodot-2024.1/addons/qodot/palette.lmp"
+dest_files=["res://.godot/imported/palette.lmp-c36b09d0d8478c8249d3e672142c109d.tres"]
+
+[params]
+
